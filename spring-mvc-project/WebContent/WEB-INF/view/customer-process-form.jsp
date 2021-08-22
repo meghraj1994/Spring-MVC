@@ -12,7 +12,9 @@
         <strong>The confirmed customer is ${customer.firstName}  ${customer.lastName}</strong> <br><br>
          <strong>Available Pass is : ${customer.freePass}</strong> <br><br>
         <strong> Postal Code is : ${customer.postalCode} </strong><br><br>
-        <a href="showForm">Form Page</a>
+        <strong>Course Code ${customer.courseCode}</strong> <br><br>
+        <a href="showForm">Form Page</a> 
+        
         
        </body>
 
