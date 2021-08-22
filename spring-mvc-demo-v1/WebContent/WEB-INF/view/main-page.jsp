@@ -8,7 +8,10 @@
 <h2> This is Main Page</h2>
 <a href="form">Click Me</a> <br> <br>
 
-<a href="student/showForm">Student Form</a>
+<a href="student/showForm">Student Form</a> <br><br>
+
+<a href="customer/showForm">Customer Form</a>
+
 </body>
 
 </html>
